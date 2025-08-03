@@ -1,5 +1,4 @@
 
-````markdown
 # 👤 Django User Authentication System
 
 This is a Django-based user authentication system that includes:
